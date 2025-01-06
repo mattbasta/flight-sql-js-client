@@ -12,7 +12,7 @@ Currently all testing is done on Node.
 You can install the client using npm:
 
 ```bash
-npm install @lancedb/flightsql-client
+npm install @lancedb/arrow-flight-sql-client
 ```
 
 ## Usage
